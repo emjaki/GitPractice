@@ -1,1 +1,1 @@
-still learning how add, commit and push commands work
+Now I'm checking how edits are tracked
